@@ -158,7 +158,7 @@ function App() {
           <div className="container">
             <h2>Faça parte dessa transformação</h2>
             <p>Explore nosso repositório ou entre em contato para saber mais sobre o hardware e o aplicativo.</p>
-            <a href="https://github.com/SEU_USUARIO/SEU_USUARIO.github.io" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
+            <a href="https://github.com/coltrox/app-nima" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
               Acessar Repositório
             </a>
           </div>
